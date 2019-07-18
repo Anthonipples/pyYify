@@ -24,7 +24,7 @@ SOFTWARE.
 import platform
 from setuptools import setup
 
-install_requires = ['bs4' , 'urllib3', 'urllib'  , 'requests']
+install_requires = ['bs4' , 'urllib3', 'requests']
 # if platform.system() == 'windows':
 #     install_requires = [
 #         'pypiwin32'
